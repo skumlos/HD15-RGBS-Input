@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "hd15-vga")(type "KiCad")(uri "${KIPRJMOD}/hd15-vga.pretty")(options "")(descr ""))
+  (lib (name "keystone-7794")(type "KiCad")(uri "${KIPRJMOD}/keystone-7794.pretty")(options "")(descr ""))
+)
